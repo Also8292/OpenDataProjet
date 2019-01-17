@@ -1,4 +1,8 @@
+bg-dark{
+  background-color: #f8f9fa !important;
+}
+
 #map{
-  height: 500px;
+  height: 1000px;
   width: 100%;
 }
