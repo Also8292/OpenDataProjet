@@ -1,3 +1,5 @@
+
+
 bg-dark{
   background-color: #f8f9fa !important;
 }
@@ -6,3 +8,13 @@ bg-dark{
   height: 1000px;
   width: 100%;
 }
+
+h5{
+  font-family: "Script MT Bold" !important;
+}
+p.pop{
+  font-family: "Script MT Bold" !important;
+  font-size: 20px !important;
+}
+
+
